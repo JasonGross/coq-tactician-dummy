@@ -1,4 +1,4 @@
-(lang dune 3.5)
+(lang dune 3.13)
 (name coq-tactician-dummy)
 (using coq 0.6)
 
@@ -23,5 +23,4 @@ by others, your package can depend on this package. Just add
 to go.")
  (license MIT)
  (depends
-   coq-core
-   (dune (< 3.8~))))
+   coq-core))
