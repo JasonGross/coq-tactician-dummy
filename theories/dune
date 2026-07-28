@@ -4,5 +4,5 @@
  (flags -q)
  (stdlib no)
  (plugins
-  coq-core.plugins.ltac)
+  rocq-runtime.plugins.ltac)
 )

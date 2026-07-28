@@ -23,4 +23,4 @@ by others, your package can depend on this package. Just add
 to go.")
  (license MIT)
  (depends
-   coq-core))
+   rocq-runtime))
